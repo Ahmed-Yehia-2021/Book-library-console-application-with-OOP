@@ -1,0 +1,3 @@
+F:/OOP/Projects about all OOP/Book Liberary Project/cmake-build-debug/CMakeFiles/Book_Liberary_Project.dir
+F:/OOP/Projects about all OOP/Book Liberary Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/OOP/Projects about all OOP/Book Liberary Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
